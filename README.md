@@ -21,7 +21,7 @@ This project utilizes the following technologies:
 ___
 
 ### Setup:
-Simply clone this project, head into Final Build and then hit UnityApplication.exe or whatever else it may be called.
+Simply clone this project, head into Final Build and then hit Car Park.exe file to launch the Unity application.
 
 ___
 
