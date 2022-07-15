@@ -27,8 +27,8 @@ ___
 
 ### How To Use The Application:
 The application is rather simple to use. Simply start the application and watch as the cars learn how to drive around the track. The cars are given 15 seconds to try 
-and make it around the track, and if they hit a wall, they are stopped immediately. At first the progress might seem a bit slow, but if left in the background for a 
-couple of minutes, expect to see some self driving cars.
+and make it around the track, and if they hit a wall, they are stopped immediately. Then the process is repeated over and over again and again. At first the progress 
+might seem a bit slow, but if left in the background for a couple of minutes, expect to see some self driving cars.
 
 Furthermore, the camera view can be changed using the left and right arrows. Below are all the featured camera angles on display:
 
