@@ -37,7 +37,6 @@ Furthermore, the camera view can be changed using the left and right arrows. Bel
 ![Angle 4](https://github.com/Morshok/readme-images/blob/master/Car%20Park/angle4.png)<br>
 ![Angle 5](https://github.com/Morshok/readme-images/blob/master/Car%20Park/angle5.png)<br>
 ![Angle 6](https://github.com/Morshok/readme-images/blob/master/Car%20Park/angle6.png)<br>
-![Angle 7](https://github.com/Morshok/readme-images/blob/master/Car%20Park/angle7.png)<br>
 
 As can be seen on the images above, the user has the ability to reset the networks by hitting the button in the top left corner of the screen. <br><br>
 As a final note, and as you might have also already noticed, there is no quit application button or anything featured, because back in 2018 I forgot to implement it. To get around this simply hit alt+f4 when finished with the application, or exit the program from the Task Manager.
