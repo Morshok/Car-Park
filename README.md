@@ -38,5 +38,7 @@ Furthermore, the camera view can be changed using the left and right arrows. Bel
 ![Angle 5](https://github.com/Morshok/readme-images/blob/master/Car%20Park/angle5.png)<br>
 ![Angle 6](https://github.com/Morshok/readme-images/blob/master/Car%20Park/angle6.png)<br>
 
-As can be seen on the images above, the user has the ability to reset the networks by hitting the button in the top left corner of the screen. <br><br>
+As can be seen on the images above, the user has the ability to reset the networks by hitting the button in the top left corner of the screen. What can also be seen are a bunch of transparent glaspanes awkwardly placed around the track. These are checkpoints to score the cars performance during a run. Depending on a cars score, it will shift from red to blue to cyan to green. The genetic algorithm keeps the top 50% best performing cars from previous runs. Remaining cars from are copied from cars of previous runs and there is also a slight chance that these cars will be mutated, thus "genetic algorithm"<br><br>
+Below is a display of the cars racing through the tracks after 
+
 As a final note, and as you might have also already noticed, there is no quit application button or anything featured, because back in 2018 I forgot to implement it. To get around this simply hit alt+f4 when finished with the application, or exit the program from the Task Manager.
